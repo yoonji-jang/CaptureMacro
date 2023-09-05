@@ -1,3 +1,3 @@
 WEBSITE=https://www.naver.com, https://www.youtube.com
 OUTPUT=C:\Users\jjyjj\yoonji\develop\NineClips\CaptureMacro\output\
-TIME_INTERVAL=10
+TIME_INTERVAL=86400
