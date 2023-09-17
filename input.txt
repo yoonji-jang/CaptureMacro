@@ -1,3 +1,3 @@
-WEBSITE=https://www.naver.com, https://www.youtube.com
+WEBSITE=https://chat.openai.com/?model=text-davinci-002-render-sha, https://post.naver.com/viewer/postView.naver?volumeNo=36517855&memberNo=30808112&navigationType=push
 OUTPUT=C:\Users\jjyjj\yoonji\develop\NineClips\CaptureMacro\output\
 TIME_INTERVAL=86400
