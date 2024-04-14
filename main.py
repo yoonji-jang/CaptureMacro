@@ -15,7 +15,7 @@ parser.add_argument('-input', type=str, dest="input_txt", action='store', defaul
 args = parser.parse_args()
 
 # version info
-VERSION = 1.1
+VERSION = 1.2
 print("[Info] CaptureMacro V" + str(VERSION))
 
 # config setting
