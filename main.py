@@ -18,8 +18,10 @@ args = parser.parse_args()
 VERSION = 1.1
 print("[Info] CaptureMacro V" + str(VERSION))
 
+# config setting
+pyautogui.FAILSAFE = False
 
-#input
+# input
 input_text = args.input_txt
 input_file = open(input_text, "r", encoding="UTF8")
 input_data=input_file.readlines()
